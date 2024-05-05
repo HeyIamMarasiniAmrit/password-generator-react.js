@@ -1,6 +1,8 @@
 # React + Vite
 
 Password Generator
+![k](https://github.com/HeyIamMarasiniAmrit/password-generator-react.js/assets/101445427/b19eb113-24f4-4c8d-9358-fd0bce0e2772)
+
 
 Overview
 This is a simple password generator built using React.js and styled with Tailwind CSS. It allows users to generate strong passwords with customizable options such as length, including uppercase letters, numbers, and special characters.
